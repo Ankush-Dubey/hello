@@ -8,3 +8,6 @@ func main() {
 func demo() {
 	fmt.Print("demo")
 }
+func dempw() {
+	fmt.Print("dempw")
+}
